@@ -87,11 +87,6 @@ function animate(delta) {
   render(delta);
 }
 
-
-
-
-
-
 let capturer = new CCapture({
   verbose: true,
   framerate: 70,
